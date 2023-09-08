@@ -1,0 +1,12 @@
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.hngImg{
+    max-width: 40vw;
+}
+.hngImg img{
+    width: 100%;
+    border-radius: 50%;
+}
